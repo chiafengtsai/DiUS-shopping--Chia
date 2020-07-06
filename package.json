@@ -1,0 +1,17 @@
+{
+  "name": "dius_shopping_from_chia",
+  "version": "1.0.0",
+  "description": "This repo contains the source code of DiUS computer store checkout system, which has following features.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}
