@@ -1,4 +1,4 @@
-const Checkout = require("./app");
+const Checkout = require("./checkout");
 const catelogue = require("./data/catelogue.js");
 const { FreeDeal } = require("./utils/pricingRules");
 
